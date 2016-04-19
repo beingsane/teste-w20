@@ -1,0 +1,12 @@
+body {
+	background-color: #eee;
+	padding-top: 70px; /* Margin navbar */
+}
+
+#aguarde {
+	display: none;
+}
+
+	#aguarde h3 {
+		margin:0 !important;
+	}
